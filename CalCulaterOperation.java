@@ -15,6 +15,9 @@ public class CalCulaterOperation
 		System.out.println("Multification= "+(n1*n2));
 		System.out.println("Division= "+(n1/n2));
 		
+		System.out.println("This is Calculator Program.");
+		System.out.println("Class Home Work...");
+		
 	}
 
 }
